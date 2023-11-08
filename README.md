@@ -12,3 +12,21 @@
     <a href = "https://teams.microsoft.com/l/chat/0/0?users=Agatha.linhares@etec.sp.gov.br"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" target="_blank"></a>
     <a href = "https://wa.me/5511991125923"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </p>
+      
+<h1>________________________________________________________________________</h1>
+  
+  <h3>Softwares com mais conhecimento 💡</h3>
+  <p>• Visual Studio Code</p>
+  <p>• Visual Studio</p>
+  <p>• Eclipse</p>
+  <p>• Postman</p>
+  <p>• BrModelo</p>
+  <p>• SQL Server Management Studio</p>
+  <p>• IntelliJ IDEA Community</p>
+  <br>
+
+ <div class="status"  align="center"> 
+  <a href="https://github.com/Agatha050827">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agatha050827&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha050827&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
