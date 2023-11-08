@@ -24,9 +24,3 @@
   <p>• SQL Server Management Studio</p>
   <p>• IntelliJ IDEA Community</p>
   <br>
-
- <div class="status"  align="center"> 
-  <a href="https://github.com/Agatha050827">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agatha050827&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agatha050827&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
